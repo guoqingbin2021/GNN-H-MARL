@@ -1,0 +1,8 @@
+inherits: default.yaml
+
+train:
+  num_envs: 768
+  minibatch_size: 8192
+
+evaluation:
+  episodes: 50

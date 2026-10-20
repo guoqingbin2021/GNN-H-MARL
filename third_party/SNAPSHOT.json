@@ -1,0 +1,572 @@
+{
+  "schema": 1,
+  "identity": "Byte-for-byte local project source subset; upstream commit identities are recorded in SOURCES.json but have not been independently verified against pristine checkouts.",
+  "copied_file_count": 113,
+  "files": [
+    {
+      "path": "HARL/harl/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/algorithms/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/__init__.py",
+      "bytes": 1161,
+      "sha256": "013a5535084d0523c65762ba7fb8c604a89386f31bd77364763f50f48c5b0754"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/haa2c.py",
+      "bytes": 6324,
+      "sha256": "03e8dbf41aced7c0044c3f61e0deaf81538234df125561fabdeb6dbbf4cc7e75"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/had3qn.py",
+      "bytes": 3308,
+      "sha256": "29345d967a8b8c137185eb1bd76877f50feebb4fa140159097aa7735c4dc9406"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/haddpg.py",
+      "bytes": 2741,
+      "sha256": "65871601a179803ac4abd7cc0cd70d221ccf4ef292cbd4baa04fce0fbe4f24dd"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/happo.py",
+      "bytes": 6547,
+      "sha256": "52df0d18ac554e7662a6fb0e8e27105e1fda96d121fd9bdb127096cfa1a15255"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/hasac.py",
+      "bytes": 4663,
+      "sha256": "ed9cdf58d61f6a15f21ca2d2dc1321d73b9631ab2cfa579ce1ccd1b139cfd8b9"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/hatd3.py",
+      "bytes": 1516,
+      "sha256": "1046bd311eabd67cd8c43b8d60c5ff626c5eaf966280c538e6396f774eabca1a"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/hatrpo.py",
+      "bytes": 9406,
+      "sha256": "d52910cf8a3b1c892ddcb8c1102c1aa5f42ef04fffd67eb82ccd9d9f9ae573f4"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/maddpg.py",
+      "bytes": 516,
+      "sha256": "13fd3fb2ad2625774c37ec83e9d83c27ddd22f68d8f86fb2d9d933603529c677"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/mappo.py",
+      "bytes": 10363,
+      "sha256": "ed30db6fc51557197e4112dadf09a3d164bd8713aa7a2f6ea3bddb30732b6868"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/matd3.py",
+      "bytes": 511,
+      "sha256": "95531aa390b52abed31de56f7c98b030c1f47f71f2e471eda4fd1b30357f9f76"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/off_policy_base.py",
+      "bytes": 2592,
+      "sha256": "600eb6e49fe142a934bf23309e621af0a2e55e385f350576f96b9c519876350d"
+    },
+    {
+      "path": "HARL/harl/algorithms/actors/on_policy_base.py",
+      "bytes": 6178,
+      "sha256": "49d39077a26816fd6f98d0ea3a7b6d0a5c8a8c19d394578af1e8f91af7ace742"
+    },
+    {
+      "path": "HARL/harl/algorithms/critics/__init__.py",
+      "bytes": 1150,
+      "sha256": "6dcf3912dc04828ba803e43717dadb4e1f68024e2744c721e7c99a64e4ba3c7d"
+    },
+    {
+      "path": "HARL/harl/algorithms/critics/continuous_q_critic.py",
+      "bytes": 6240,
+      "sha256": "3967d397448f2d641b439dedaf42aa9c86e4b46c0b735f945b73c470f596dfe1"
+    },
+    {
+      "path": "HARL/harl/algorithms/critics/discrete_q_critic.py",
+      "bytes": 9734,
+      "sha256": "801b53564e5a010727edd9b3ac0c6f1892c591fa8040468c0293250e301fdce5"
+    },
+    {
+      "path": "HARL/harl/algorithms/critics/soft_twin_continuous_q_critic.py",
+      "bytes": 10793,
+      "sha256": "b0ff65873889b4a51fc8615a490e0e8df7ad505d2af0a19ccbe42b20d8764847"
+    },
+    {
+      "path": "HARL/harl/algorithms/critics/twin_continuous_q_critic.py",
+      "bytes": 8116,
+      "sha256": "1db31d7161f88af9209c6557f6c8dec973d7662d2214a56970e5deef5958c828"
+    },
+    {
+      "path": "HARL/harl/algorithms/critics/v_critic.py",
+      "bytes": 8380,
+      "sha256": "7fe3f121044b0fb5d8de600784f628cfee1742d5653ccc32e62c1eca2afff93f"
+    },
+    {
+      "path": "HARL/harl/common/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/common/base_logger.py",
+      "bytes": 7000,
+      "sha256": "853a0b280e33b7510c161dc98cc3222f9cc8128a3ac13ad54e97f0a91d486b58"
+    },
+    {
+      "path": "HARL/harl/common/buffers/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/common/buffers/off_policy_buffer_base.py",
+      "bytes": 9547,
+      "sha256": "4f9286befc0a65af75267bd469d3361b1d8c779d393d9cb1ead99586b70c45dc"
+    },
+    {
+      "path": "HARL/harl/common/buffers/off_policy_buffer_ep.py",
+      "bytes": 6649,
+      "sha256": "6724e467c32f53102b56443c85a89a0bb6eb4edf6547bdce5643b611b6f81290"
+    },
+    {
+      "path": "HARL/harl/common/buffers/off_policy_buffer_fp.py",
+      "bytes": 8191,
+      "sha256": "c04f8ad59a50f73a5ada49d1964b1512b2d83f6a403b7d4cac12e28883acabc2"
+    },
+    {
+      "path": "HARL/harl/common/buffers/on_policy_actor_buffer.py",
+      "bytes": 16199,
+      "sha256": "b2b30ee8525214b07fad779b987297b3e19842f6c1d6b122cd9c957a1506c526"
+    },
+    {
+      "path": "HARL/harl/common/buffers/on_policy_critic_buffer_ep.py",
+      "bytes": 18157,
+      "sha256": "4a6a50a6c19dafff849e0fd8facf90ab3559c3bc34a601682185a4f382227bfa"
+    },
+    {
+      "path": "HARL/harl/common/buffers/on_policy_critic_buffer_fp.py",
+      "bytes": 19437,
+      "sha256": "1d2e2c5579d7df5a1fe4aa2a3844fde091b283a39a4b03e365096637a45c2e9a"
+    },
+    {
+      "path": "HARL/harl/common/valuenorm.py",
+      "bytes": 3637,
+      "sha256": "f82f5eb3e01a1d1aa2fa2fd24ca4d88051ec37a4d5b919f2c310efd899f667ef"
+    },
+    {
+      "path": "HARL/harl/envs/__init__.py",
+      "bytes": 1217,
+      "sha256": "2c564e8f6f32959c2685d02dac4d4af6a663d49f59d75caa14d9bc9affda15eb"
+    },
+    {
+      "path": "HARL/harl/envs/dexhands/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/dexhands/dexhands_logger.py",
+      "bytes": 2514,
+      "sha256": "6474bee5cd46727aa53bff8900fdf7c743a421c0845e087012b6651b9f899a33"
+    },
+    {
+      "path": "HARL/harl/envs/env_wrappers.py",
+      "bytes": 12785,
+      "sha256": "595d657d1d274b4c8f6073d4a2f89e9ce4e9fc04f33a4003ce6d3879d18a9aff"
+    },
+    {
+      "path": "HARL/harl/envs/football/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/football/football_logger.py",
+      "bytes": 1869,
+      "sha256": "66dd296c94e78bac91f61e8818b376971616e0a90ccff6fa32c5138b6a969b11"
+    },
+    {
+      "path": "HARL/harl/envs/gym/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/gym/gym_logger.py",
+      "bytes": 558,
+      "sha256": "0f5e9ba3a009cf7dacb68c76a45b0e44c306a4c01dc720f4a072ee9582eb3db2"
+    },
+    {
+      "path": "HARL/harl/envs/lag/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/lag/lag_logger.py",
+      "bytes": 587,
+      "sha256": "a2550f091f5a7cbbdfb8b82dc555d82fe08f5ee6c0d9b89065c77c7a446fb1aa"
+    },
+    {
+      "path": "HARL/harl/envs/mamujoco/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/mamujoco/mamujoco_logger.py",
+      "bytes": 598,
+      "sha256": "22b7234ed1b7af11ba499661b0a5f0984bdb7047aada89e6f94f1d9391f71f15"
+    },
+    {
+      "path": "HARL/harl/envs/pettingzoo_mpe/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/pettingzoo_mpe/pettingzoo_mpe_logger.py",
+      "bytes": 712,
+      "sha256": "d65a05bf174c0c5e1de7f0a6939bb518f1d6d3e135fffeff27cedf507fdd2d74"
+    },
+    {
+      "path": "HARL/harl/envs/smac/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/smac/smac_logger.py",
+      "bytes": 6508,
+      "sha256": "b10d7148bb4ff8d8c3ec5b4082ed21bcf8583c591b75c865543fc6ed348fb145"
+    },
+    {
+      "path": "HARL/harl/envs/smacv2/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/envs/smacv2/smacv2_logger.py",
+      "bytes": 736,
+      "sha256": "904361bc9e6553da5c84d334588017a02d1dc12c7bf2ca34e8b547c6c530f53e"
+    },
+    {
+      "path": "HARL/harl/models/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/models/base/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/models/base/act.py",
+      "bytes": 7530,
+      "sha256": "4198a9a04bc1e9efd1b0259f7c0033ac1a4dff1dddfcd524a00522cd789b74ce"
+    },
+    {
+      "path": "HARL/harl/models/base/cnn.py",
+      "bytes": 2838,
+      "sha256": "9423866ebf0db36992da630d699d8dba005977f3d9642346e73aee6711a0fcd3"
+    },
+    {
+      "path": "HARL/harl/models/base/distributions.py",
+      "bytes": 3140,
+      "sha256": "86b5a8f6ae15badcd092988535602cc9b284d7ee58cbdd20c433c42c65c8640b"
+    },
+    {
+      "path": "HARL/harl/models/base/flatten.py",
+      "bytes": 522,
+      "sha256": "323eceb5d283cdf7660467746f5cb8da63ea141ea6c38a198fdf2019115fe5a5"
+    },
+    {
+      "path": "HARL/harl/models/base/mlp.py",
+      "bytes": 2600,
+      "sha256": "cb8b9abccf3388b8cc20138e773703fdcabc35561b5ada3ca48b2d88983da8ee"
+    },
+    {
+      "path": "HARL/harl/models/base/plain_cnn.py",
+      "bytes": 1555,
+      "sha256": "94eb48642c4e329a2224953c530273fd3b6b3615e254fbcf9f991919c5942215"
+    },
+    {
+      "path": "HARL/harl/models/base/plain_mlp.py",
+      "bytes": 973,
+      "sha256": "6ad8e2814df3ef2803e080d1cc704bb171d1c3cf32fad16ae5e80eb4eb2ce792"
+    },
+    {
+      "path": "HARL/harl/models/base/rnn.py",
+      "bytes": 3328,
+      "sha256": "c7c8b8aea8aada923630f3b1604fbb43a539b729217591cfc446e835a7af9771"
+    },
+    {
+      "path": "HARL/harl/models/policy_models/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/models/policy_models/deterministic_policy.py",
+      "bytes": 2465,
+      "sha256": "e2f78107d8948989dd0dcd4958a5474a4cb02095e955b0b2df30b957bd3d3ead"
+    },
+    {
+      "path": "HARL/harl/models/policy_models/squashed_gaussian_policy.py",
+      "bytes": 3890,
+      "sha256": "9fbc8abd6dcc1859374b451a21f5870a4c3ad3a4230292c9917585be8a52d26b"
+    },
+    {
+      "path": "HARL/harl/models/policy_models/stochastic_mlp_policy.py",
+      "bytes": 3616,
+      "sha256": "bb37727b504d69b70aadcb164e13675162f6c29e12aabb5e3f8cc0ceadbead29"
+    },
+    {
+      "path": "HARL/harl/models/policy_models/stochastic_policy.py",
+      "bytes": 6277,
+      "sha256": "ce35f059d99632b549e99319b555633206988b1676f91173557d9a659e4f613c"
+    },
+    {
+      "path": "HARL/harl/models/value_function_models/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/models/value_function_models/continuous_q_net.py",
+      "bytes": 2763,
+      "sha256": "8b1f9a01e184b0aa8384fad87d26d47c5893a537bc6236932f5f4f9e85fde8dd"
+    },
+    {
+      "path": "HARL/harl/models/value_function_models/dueling_q_net.py",
+      "bytes": 2564,
+      "sha256": "9b20c8f2e5f7814eda1d433dd8b8b1b26eb6572ed99de8955d6a31533a4338d3"
+    },
+    {
+      "path": "HARL/harl/models/value_function_models/v_net.py",
+      "bytes": 3328,
+      "sha256": "508396d1e53cb40b3d31d692503038151035e69574de3b6571f22539cd619ac7"
+    },
+    {
+      "path": "HARL/harl/utils/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "HARL/harl/utils/configs_tools.py",
+      "bytes": 4894,
+      "sha256": "f1480d19d1b3f6cf412744d3e5cd1ca117db532f1480b4086f66ea0cbc4dba3b"
+    },
+    {
+      "path": "HARL/harl/utils/discrete_util.py",
+      "bytes": 2599,
+      "sha256": "e7bbb2f6c057954d0d43655d490ad44b32f6445bd2ef2c0b272b8fad9a5181c0"
+    },
+    {
+      "path": "HARL/harl/utils/envs_tools.py",
+      "bytes": 9441,
+      "sha256": "c384182ddb76bbe7bae9cc618ddc0be394104bac3f6f255da6dfda96acb0ae00"
+    },
+    {
+      "path": "HARL/harl/utils/models_tools.py",
+      "bytes": 3753,
+      "sha256": "dd6560e8ba239eb43d5605c510ae3423c0a6a4eb0aaeff71bd070aa567229264"
+    },
+    {
+      "path": "HARL/harl/utils/trans_tools.py",
+      "bytes": 1431,
+      "sha256": "fb04093cd35a252921657fcca604c0566ccfa35e570da3306c76486a50a36d0f"
+    },
+    {
+      "path": "HARL/harl/utils/trpo_util.py",
+      "bytes": 4970,
+      "sha256": "692f868b3500dd30683f1f63ff20a45a9938ab19063cbef0360cbe3c6cd9bddf"
+    },
+    {
+      "path": "HARL/README.md",
+      "bytes": 15142,
+      "sha256": "02561480aa26238dec6bc60ec51678ef4da27ec3056be6dc7f9ea380e2081350"
+    },
+    {
+      "path": "HARL/setup.py",
+      "bytes": 1158,
+      "sha256": "42f151c4861961ae219c2c999518a67db7732b6d95b8a7009dba25d62d6c9d2d"
+    },
+    {
+      "path": "on-policy/LICENSE",
+      "bytes": 1096,
+      "sha256": "e0971517b1a2683cf36b2e551c9698f34d7e49f3153a0dc4864ea88fd51dbd35"
+    },
+    {
+      "path": "on-policy/onpolicy/__init__.py",
+      "bytes": 610,
+      "sha256": "7b5547741544c8a2656d2e588864f8c5e3cb5ef2fe7b94485e328fba22dd39b6"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/r_mappo/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/r_mappo/algorithm/r_actor_critic.py",
+      "bytes": 9462,
+      "sha256": "b6bf049717587bd11a01176fd3cab8f3601d3ae2e19c5bde0e0852df78f554b5"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/r_mappo/algorithm/rMAPPOPolicy.py",
+      "bytes": 7801,
+      "sha256": "1a4f8b41b70e5c1681bec98f0a09699b8015d72ef4b8e165cc54a652708eb403"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/r_mappo/r_mappo.py",
+      "bytes": 11416,
+      "sha256": "136ece74d8cd68a5420e01d8d85c1916ec719caf35d27b457757490dbf791a30"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/act.py",
+      "bytes": 12088,
+      "sha256": "515e7224f894a3d96c3afb4cfc982c7968d4270ecac7c0426f755af677860011"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/cnn.py",
+      "bytes": 2314,
+      "sha256": "6e9c552337885d8e1d2cce1f74f0179e1c1dae3be0b98c5d22d0069ff0cb381c"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/distributions.py",
+      "bytes": 3999,
+      "sha256": "9be9f3e1ce17a49e478d73fa3cbbfc90a429d362eca00c33b50b25dcbb2f91e3"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/mlp.py",
+      "bytes": 2536,
+      "sha256": "a4e7cc1584b38be836c7862ed419bdfd60f0a4a8a35a34fd72920c8a2c6ae494"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/popart_hatrpo.py",
+      "bytes": 3689,
+      "sha256": "e4242bd5a509243f6436f8356e63d3a3afc8126e50143156f04db500da31c564"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/popart.py",
+      "bytes": 4446,
+      "sha256": "b532f5038692238c59c6c60a61c533f170685850c1b640c981de83ab8aefc6f0"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/rnn.py",
+      "bytes": 3333,
+      "sha256": "a6f929bd21752a1dde1f8da902d3567fbdaa1bdac75051cfb7cdeb97f0ea2843"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/transformer_act.py",
+      "bytes": 4145,
+      "sha256": "16cd49051732d11981edda78b52bb6359d2365c93da25577792481d084080cd2"
+    },
+    {
+      "path": "on-policy/onpolicy/algorithms/utils/util.py",
+      "bytes": 883,
+      "sha256": "2f830ed413d000f14626fbb50df40aa67ed23cffb21d69345cdf8e3bfd118491"
+    },
+    {
+      "path": "on-policy/onpolicy/config.py",
+      "bytes": 18012,
+      "sha256": "7a36ab7272edd35e9353ecd2653b3f3e02169f84bade32dd0ac635068c66d4ad"
+    },
+    {
+      "path": "on-policy/onpolicy/envs/__init__.py",
+      "bytes": 494,
+      "sha256": "9e70b30ff197f10dd570d513fd3e55337c5839df058d4008da235319fe308a54"
+    },
+    {
+      "path": "on-policy/onpolicy/scripts/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "on-policy/onpolicy/utils/__init__.py",
+      "bytes": 395,
+      "sha256": "c07e09fcf5d18440cf17c9a7db7992f4754b1e8c520e29ae00bf4b37578df77f"
+    },
+    {
+      "path": "on-policy/onpolicy/utils/multi_discrete.py",
+      "bytes": 2795,
+      "sha256": "2754278b6b794fd2c7f1921a3484fb451c7e1d97635c45f8d01f9f2d34afc7c9"
+    },
+    {
+      "path": "on-policy/onpolicy/utils/separated_buffer.py",
+      "bytes": 24360,
+      "sha256": "0b0565e9c54eb4c2c3be4835bbe74d1ab9e94408d467da7a7c9a6a79828edb79"
+    },
+    {
+      "path": "on-policy/onpolicy/utils/shared_buffer.py",
+      "bytes": 34997,
+      "sha256": "6390769169cf3ccec38ffb8490975fac7746b95b7286facf36c8e3fc7009df95"
+    },
+    {
+      "path": "on-policy/onpolicy/utils/util.py",
+      "bytes": 2715,
+      "sha256": "87f518c18c2f53e18d90eaa87b05a5af0e6b09d07eeb8e559f081c66002fc3d4"
+    },
+    {
+      "path": "on-policy/onpolicy/utils/valuenorm.py",
+      "bytes": 3593,
+      "sha256": "f9524c23ecb7c31d4116862f38e7ae0ede8f3c5ba8b8e06a41a949b3f5564602"
+    },
+    {
+      "path": "on-policy/README.md",
+      "bytes": 6181,
+      "sha256": "899027ec5a30177315ee8a1f239bdcdef6d8036a8d1d5d46d9ffc9f50a7558c4"
+    },
+    {
+      "path": "on-policy/requirements.txt",
+      "bytes": 2615,
+      "sha256": "27412ab01c4260f1439b9e1ec57d585ab20935736889933fc713df046127253c"
+    },
+    {
+      "path": "on-policy/setup.py",
+      "bytes": 1656,
+      "sha256": "1ab8a1a096c18f5ca6d4722835caca13de37a17e9549555c3833ba46ee82ae10"
+    },
+    {
+      "path": "SOTA/CAVDN/CAVDN/network/base_net.py",
+      "bytes": 12639,
+      "sha256": "6be4b5b92ec81de9c96ccf3ac037784fe1be7be837811d4a4b86a76d5e1581a5"
+    },
+    {
+      "path": "SOTA/CAVDN/CAVDN/network/coord_net.py",
+      "bytes": 2045,
+      "sha256": "3e702366f408fde0c873457cd74d49a809d15aad2329409ada593146f65c988d"
+    },
+    {
+      "path": "SOTA/CAVDN/CAVDN/network/qmix_net.py",
+      "bytes": 3307,
+      "sha256": "6e8769571e108a38acc72d6e76ca388cc2d2e225bb3ba9cf2a0168ca40d15257"
+    },
+    {
+      "path": "SOTA/CAVDN/CAVDN/README.md",
+      "bytes": 2666,
+      "sha256": "ec5cd64a17fb05a30df9bd5659496c0769b9342c487f78d129d63c1e644b76e8"
+    },
+    {
+      "path": "SOTA/DROO/DROO/LICENSE",
+      "bytes": 1083,
+      "sha256": "f83173dcc912b7f3321dbe6c2baeb48489d183d39c0c77014924c2f4392f188b"
+    },
+    {
+      "path": "SOTA/DROO/DROO/memoryPyTorch.py",
+      "bytes": 5635,
+      "sha256": "eb151031976483c0ef5b6650d42bb155bb5a5afec752bf77b5a7bd1699e7b52c"
+    },
+    {
+      "path": "SOTA/DROO/DROO/README.md",
+      "bytes": 4085,
+      "sha256": "b30551146067093ea356a1e7facabeeede4ee118b7e4153da5ec1df6b11e6198"
+    },
+    {
+      "path": "SOURCES.json",
+      "bytes": 1374,
+      "sha256": "493c2fbf9e915a4068aa5282a24beba6fbce8f763abc691271ef01a95d0e8e2d"
+    }
+  ]
+}

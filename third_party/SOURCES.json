@@ -1,0 +1,50 @@
+{
+  "official_mappo": {
+    "repository": "https://github.com/marlbenchmark/on-policy",
+    "commit": "de66d7a4b23fac2513f56f96f73b3f5cb96695ac",
+    "local_path": "third_party/on-policy",
+    "license": "MIT",
+    "used_components": [
+      "R_MAPPOPolicy",
+      "R_MAPPO",
+      "SharedReplayBuffer",
+      "ValueNorm"
+    ]
+  },
+  "official_happo": {
+    "repository": "https://github.com/PKU-MARL/HARL",
+    "commit": "b1af98b0dbab72a2eee9d160751cd09aedbb8ce2",
+    "local_path": "third_party/HARL",
+    "license": "MIT (declared in upstream setup.py)",
+    "used_components": [
+      "HAPPO",
+      "VCritic",
+      "OnPolicyActorBuffer",
+      "OnPolicyCriticBufferEP",
+      "ValueNorm"
+    ]
+  },
+  "official_cavdn": {
+    "repository": "https://github.com/chenbq/CAVDN",
+    "commit": "17126934c71e64b0669ad662cdbd6b1e569a8864",
+    "local_path": "third_party/SOTA/CAVDN/CAVDN",
+    "license": "No license file declared by upstream",
+    "used_components": [
+      "RNN_FC",
+      "CoordNet",
+      "Q_out",
+      "QMixNet"
+    ]
+  },
+  "official_droo": {
+    "repository": "https://github.com/revenol/DROO",
+    "commit": "563d6c7723463c3e6b77b470e3200268c5fad4f3",
+    "local_path": "third_party/SOTA/DROO/DROO",
+    "license": "MIT",
+    "used_components": [
+      "MemoryDNN",
+      "MemoryDNN._build_net",
+      "OP order-preserving quantization"
+    ]
+  }
+}

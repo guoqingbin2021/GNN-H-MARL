@@ -1,0 +1,22 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Runtime inputs, outputs, and learned parameters are not part of this release.
+data/
+output/
+outputs/
+*.pt
+*.pth
+*.ckpt
+*.log
+*.jsonl
+
+# Local editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
